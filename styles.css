@@ -457,6 +457,7 @@ h3 {
 				padding: 20px;
 				transform: translateY(100%);
 				transition: transform 0.5s ease;
+				font-size:15px;
 			}
 		
 			&:hover img {
